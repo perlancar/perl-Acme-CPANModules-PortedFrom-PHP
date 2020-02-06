@@ -12,6 +12,7 @@ If you know of others, please drop me a message.
 
 _
     entries => [
+        {module=>'Weasel', summary=>'Mink'},
     ],
 };
 
