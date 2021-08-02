@@ -2,3 +2,4 @@ Acme-CPANModules-PortedFrom-PHP-*
 .build
 *~
 nytprof*
+.DS_Store
