@@ -1,6 +1,10 @@
 package Acme::CPANModules::PortedFrom::PHP;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 our $LIST = {
@@ -13,6 +17,7 @@ If you know of others, please drop me a message.
 _
     entries => [
         {module=>'Weasel', summary=>'Mink'},
+        {module=>'PHP::Functions::Password', summary=>'PHP password functions'},
     ],
 };
 
